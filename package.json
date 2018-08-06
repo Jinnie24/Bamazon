@@ -1,0 +1,28 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Node.js &amp; MySQL",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^6.0.0",
+    "mysql": "^2.16.0",
+    "node-mysql": "^0.4.2",
+    "package": "^1.0.1",
+    "prompt-choices": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jinnie24/Bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jinnie24/Bamazon/issues"
+  },
+  "homepage": "https://github.com/Jinnie24/Bamazon#readme"
+}
